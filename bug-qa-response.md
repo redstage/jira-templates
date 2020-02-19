@@ -1,9 +1,3 @@
-# Type: Bug
-
-<!--
- @description: Template Bug QA Response
--->
-
 **Issue Reproduced:** Yes/No 
 
 **Issue Location:** Dev/Staging/Production 

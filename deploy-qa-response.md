@@ -1,9 +1,3 @@
-# Type: Deploy
-
-<!--
- @description: Template Deploy QA Response
--->
-
 **Issue Reproduced:** Yes/No 
 
 **Issue Location:** Dev/Staging/Production 

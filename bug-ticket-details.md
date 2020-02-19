@@ -1,9 +1,3 @@
-# Type: Bug
-
-<!--
- @description: Template Bug Description Template 
--->
-
 **URL**: https://abc.com
 
 **Bug Priority:**

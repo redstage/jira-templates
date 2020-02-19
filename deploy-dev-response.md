@@ -1,9 +1,3 @@
-# Type: Deploy
-
-<!--
- @description: Template Deploy Dev Response
--->
-
 **Deployment Status:** Success / Failed 
 
 **PR Deployed:** [link to PR] 

@@ -1,9 +1,3 @@
-# Type: Deploy
-
-<!--
- @description: Template Deploy Description Template 
--->
-
 **URL:** https://abc.com
 
 **Associated Ticket:** [Link to ticket]

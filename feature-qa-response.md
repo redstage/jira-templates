@@ -1,9 +1,3 @@
-# Type: Feature
-
-<!--
- @description: Template Feature QA Response
--->
-
 **Feature Tested:** Yes/No 
 
 **Test Location:** Dev/Staging/Production 

@@ -1,9 +1,3 @@
-# Type: Feature
-
-<!--
- @description: Template Feature Dev Response
--->
-
 **Feature Completed:** Yes/No 
 
 **Pending Queries:** 

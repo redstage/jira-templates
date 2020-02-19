@@ -1,9 +1,3 @@
-# Type: Feature
-
-<!--
- @description: Template Feature Description Template 
--->
-
 **User story Title Feature 1.x** [where Feature 1 is main feature (may be 60hrs in total) and x represent the chunk of task(may be of 15hrs) ]
 
 **As a** [type of user] 
