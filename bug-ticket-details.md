@@ -1,7 +1,7 @@
 # Type: Bug
 
 <!--
- @description: JIRA Ticket Bug Description Template 
+ @description: Template Bug Description Template 
 -->
 
 **URL**: https://abc.com
